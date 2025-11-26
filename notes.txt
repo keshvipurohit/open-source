@@ -1,1 +1,2 @@
 My first open source repo
+Learning Git step-by-step
